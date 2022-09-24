@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**amatissart/amatissart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from France 🇫🇷
 
-Here are some ideas to get you started:
+I currently live in Lausanne, Switzerland 🇨🇭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚙️ About me
+
+* Research engineer @Distributed-EPFL
+* Seeking to build the foundations of a robust and beneficial algorithmic governance, with the amazing team of @tournesol-app
+* Active contributor on [OpenStreetMap](https://openstreetmap.org). When working at Qwant, I also contributed to several open-source projects on which [Qwant Maps](https://github.com/qwant/qwantmaps) is based.
+
+#### 🔗 Find me on
+
+* [Twitter](https://twitter.com/amatissart)
+* [Linkedin](https://linkedin.com/in/matissart)
